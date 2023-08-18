@@ -27,3 +27,5 @@ def strcounter2(a):  # O(N)
 
 
 strcounter2(a)
+
+# asdfkaj;sdfj;asdjkfa;fja a;sldkfja;sdkfj;adfj jk;afksjd;faksd jfa;dfjka;
